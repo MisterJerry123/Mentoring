@@ -16,3 +16,4 @@
 
 ※ 1주에 1회 4주간 진행할 지 1주에 2번 2주간 진행할 지 고민 중 (기말고사일정 때문에)
 
+https://do.sejong.ac.kr/ko/program/all/view/2771/description

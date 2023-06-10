@@ -7,8 +7,8 @@
 |:---:|:---:|:---:|:---:|
 |OT|05.30(화) 17:00 ~ 18:00|세204| [멘토링 OT.pdf](https://github.com/MisterJerry123/Mentoring/blob/576955377c56b7356de1a0bf307e66324cba87df/%EB%A9%98%ED%86%A0%EB%A7%81%20ot%20%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)
 |1|05.30(화) 17:00 ~ 18:00|세204| [전반적인 학교 생활 및 알면 도움이 되는 정보.pdf](https://github.com/MisterJerry123/Mentoring/blob/bf8296eb2072d5e16a44a892bc46f4a3f1196f94/%EB%A9%98%ED%86%A0%EB%A7%81%201%ED%9A%8C%EC%B0%A8%20%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)
-|2|06.09(금) 14:00 ~ 15:00|센318| [포인터](https://github.com/MisterJerry123/Mentoring/blob/870799fdd29c73a6ae093693368247b3bde024c8/%EB%A9%98%ED%86%A0%EB%A7%81%202%ED%9A%8C%EC%B0%A8%20%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)
-|3|06.12(월) 15:00 ~ 16:00|센318| [C파일 빌드과정/버블정렬알고리즘/디버깅](https://github.com/MisterJerry123/Mentoring/blob/c5354eba430314be5a783df5dbbacad7b4d039b8/%EB%A9%98%ED%86%A0%EB%A7%81%203%ED%9A%8C%EC%B0%A8%20%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)
+|2|06.09(금) 14:00 ~ 15:00|센318| [포인터.pdf](https://github.com/MisterJerry123/Mentoring/blob/870799fdd29c73a6ae093693368247b3bde024c8/%EB%A9%98%ED%86%A0%EB%A7%81%202%ED%9A%8C%EC%B0%A8%20%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)
+|3|06.12(월) 15:00 ~ 16:00|센318| [C파일 빌드과정/버블정렬알고리즘/디버깅.pdf](https://github.com/MisterJerry123/Mentoring/blob/c5354eba430314be5a783df5dbbacad7b4d039b8/%EB%A9%98%ED%86%A0%EB%A7%81%203%ED%9A%8C%EC%B0%A8%20%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)
 |4|06.13(화) 17:00 ~ 18:00|미정| 업로드 예정
 |성과공유회|06.21(수)시간 미정 |미정
 

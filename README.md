@@ -10,8 +10,6 @@
 |2|06.09(금) 14:00 ~ 15:00|센318| [포인터.pdf](https://github.com/MisterJerry123/Mentoring/blob/870799fdd29c73a6ae093693368247b3bde024c8/%EB%A9%98%ED%86%A0%EB%A7%81%202%ED%9A%8C%EC%B0%A8%20%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)
 |3|06.12(월) 15:00 ~ 16:00|센318| [C파일 빌드과정/버블정렬알고리즘/디버깅.pdf](https://github.com/MisterJerry123/Mentoring/blob/e24e0562553c0959985e2a285657fca9656fe507/%EB%A9%98%ED%86%A0%EB%A7%81%203%ED%9A%8C%EC%B0%A8%20%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)
 |4|06.13(화) 17:00 ~ 18:00|세202| [고급c preview.pdf](https://github.com/MisterJerry123/Mentoring/blob/d0122ea1f4dbb71ef0220b39b21518e8f641a218/%EB%A9%98%ED%86%A0%EB%A7%81%204%ED%9A%8C%EC%B0%A8%20%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf)
-|성과공유회|06.21(수)(시간미정) |(장소미정)
-
-※ (예정)이 붙은 항목은 변동 될 수 있음
+|성과공유회|06.22(목) 13:00 - 14:30 |센B205
 
 https://do.sejong.ac.kr/ko/program/all/view/2771/description
